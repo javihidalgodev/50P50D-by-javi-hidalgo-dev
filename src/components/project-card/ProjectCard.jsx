@@ -7,7 +7,7 @@ ProjectCard.propTypes = {
 
 function ProjectCard ({ data }) {
   return (
-    <div className='card' style={{ backgroundImage: `url(/50P50D-by-javier-hidalgo/${data.background})` }}>
+    <div className='card' style={{ backgroundImage: `url(/50P50D-by-javi-hidalgo-dev/${data.background})` }}>
       <h4>{data.name}</h4>
       <div className='hover'>
         <h1 className='project-number'>{data.background.split('-')[1].slice(0, 2)}</h1>
