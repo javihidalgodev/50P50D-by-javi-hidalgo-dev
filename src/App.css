@@ -1,0 +1,51 @@
+body {
+  color-scheme: dark;
+  font-family: 'Kanit';
+  background-color: #242424;
+}
+
+h1, h3 {
+  margin: 0;
+  font-weight: 600;
+  color: #fafafa;
+}
+
+.main-title {
+  text-align: center;
+  transform: skewY(-10deg);
+  font-size: clamp(20px, 3vw, 12vw);
+  line-height: 1;
+
+  text-shadow: 4px 4px 0px #08dd48, -4px 4px 0 #dd0808, -4px -4px 0px #0828dd;
+}
+
+.main-title h1:nth-child(2) {
+  padding-left: 20px;
+}
+.main-title + h4 {
+  color: #fafafa;
+  font-size: 1.5em;
+}
+
+#root {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+
+  margin-top: 100px;
+}
+
+.projects-container {
+  width: 100%;
+  margin-top: 40px;
+  display: grid;
+  justify-content: center;
+  grid-template-columns: repeat(auto-fill, 200px);
+
+  gap: 30px;
+}
+
+footer {
+  margin-top: 40px;
+  color: #fff;
+}

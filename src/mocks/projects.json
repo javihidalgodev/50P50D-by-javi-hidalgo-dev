@@ -1,0 +1,66 @@
+[
+  {
+    "name": "Expanding Cards",
+    "background": "thumbnail-01.png",
+    "link": {
+      "demo": "https://javihidalgodev.github.io/50-projects-50-days/01-expanding-card/",
+      "repo": "https://github.com/javihidalgodev/50-projects-50-days/tree/main/01-expanding-card"
+    }
+  },
+  {
+    "name": "Progress Card",
+    "background": "thumbnail-02.png",
+    "link": {
+      "demo": "https://javihidalgodev.github.io/50-projects-50-days/02-progress-steps/",
+      "repo": "https://github.com/javihidalgodev/50-projects-50-days/tree/main/02-progress-steps"
+    }
+  },
+  {
+    "name": "Rotating Navigation",
+    "background": "thumbnail-03.png",
+    "link": {
+      "demo": "https://javihidalgodev.github.io/50-projects-50-days/03-rotating-navigation/",
+      "repo": "https://github.com/javihidalgodev/50-projects-50-days/tree/main/03-rotating-navigation"
+    }
+  },
+  {
+    "name": "Hidden Search Widget",
+    "background": "thumbnail-04.png",
+    "link": {
+      "demo": "https://javihidalgodev.github.io/50-projects-50-days/04-hidden-search/",
+      "repo": "https://github.com/javihidalgodev/50-projects-50-days/tree/main/04-hidden-search"
+    }
+  },
+  {
+    "name": "Blurry Loading",
+    "background": "thumbnail-05.png",
+    "link": {
+      "demo": "https://javihidalgodev.github.io/50-projects-50-days/05-blurry-loading/",
+      "repo": "https://github.com/javihidalgodev/50-projects-50-days/tree/main/05-blurry-loading"
+    }
+  },
+  {
+    "name": "Scroll Animation",
+    "background": "thumbnail-06.png",
+    "link": {
+      "demo": "https://javihidalgodev.github.io/50-projects-50-days/06-scroll-animation/",
+      "repo": "https://github.com/javihidalgodev/50-projects-50-days/tree/main/06-scroll-animation"
+    }
+  },
+  {
+    "name": "Split Landing Page",
+    "background": "thumbnail-07.png",
+    "link": {
+      "demo": "https://javihidalgodev.github.io/50-projects-50-days/07-split-landing-page/",
+      "repo": "https://github.com/javihidalgodev/50-projects-50-days/tree/main/07-split-landing-page"
+    }
+  },
+  {
+    "name": "Form Input Wave",
+    "background": "thumbnail-08.png",
+    "link": {
+      "demo": "https://javihidalgodev.github.io/50-projects-50-days/08-form-input-wave/",
+      "repo": "https://github.com/javihidalgodev/50-projects-50-days/tree/main/08-form-input-wave"
+    }
+  }
+]

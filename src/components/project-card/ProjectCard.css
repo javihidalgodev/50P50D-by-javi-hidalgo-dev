@@ -1,0 +1,80 @@
+.card {
+  position: relative;
+  height: 200px;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  
+  background-size: cover;
+  background-color: #fafafa;
+  cursor: pointer;
+  box-sizing: border-box;
+
+  transition: .25s;
+}
+
+.card:hover {
+  transform: scale(1.1);
+}
+
+.card:hover .hover {
+  backdrop-filter: blur(5px);
+  background-color: rgba(0, 34, 85, 0.9);
+}
+
+.card h4 {
+  margin: 0;
+  padding: 30px;
+  text-align: center;
+  color: #fff !important;
+  font-size: 1.5rem;
+
+  z-index: 10;
+}
+
+.card:hover h4 {
+  display: none;
+}
+
+.card:hover .links {
+  color: #fff;
+  display: flex;
+  gap: 30px
+}
+
+.card:hover .hover h1 {
+  display: none;
+}
+
+.links {
+  display: none;
+  z-index: 100;
+}
+
+.links a {
+  color: #fff;
+}
+
+.links a:hover {
+  color: #0f74d3;
+}
+
+.hover {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.7);
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  transition: .5s;
+  overflow: hidden;
+}
+
+.hover h1 {
+  color: #ffffff1a;
+  font-size: 10rem;
+}
