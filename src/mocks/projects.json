@@ -62,5 +62,21 @@
       "demo": "https://javihidalgodev.github.io/50-projects-50-days/08-form-input-wave/",
       "repo": "https://github.com/javihidalgodev/50-projects-50-days/tree/main/08-form-input-wave"
     }
+  },
+  {
+    "name": "Sound Board",
+    "background": "thumbnail-09.png",
+    "link": {
+      "demo": "https://javihidalgodev.github.io/50-projects-50-days/09-sound-board/",
+      "repo": "https://github.com/javihidalgodev/50-projects-50-days/tree/main/09-sound-board"
+    }
+  },
+  {
+    "name": "Dad Jokes",
+    "background": "thumbnail-10.png",
+    "link": {
+      "demo": "https://javihidalgodev.github.io/50-projects-50-days/10-dad-jokes/",
+      "repo": "https://github.com/javihidalgodev/50-projects-50-days/tree/main/10-dad-jokes"
+    }
   }
 ]
