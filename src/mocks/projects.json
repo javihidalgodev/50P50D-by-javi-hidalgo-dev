@@ -78,5 +78,13 @@
       "demo": "https://javihidalgodev.github.io/50-projects-50-days/10-dad-jokes/",
       "repo": "https://github.com/javihidalgodev/50-projects-50-days/tree/main/10-dad-jokes"
     }
+  },
+  {
+    "name": "Event KeyCodes",
+    "background": "thumbnail-11.png",
+    "link": {
+      "demo": "https://javihidalgodev.github.io/50-projects-50-days/11-event-keycodes/",
+      "repo": "https://github.com/javihidalgodev/50-projects-50-days/tree/main/11-event-keycodes"
+    }
   }
 ]
