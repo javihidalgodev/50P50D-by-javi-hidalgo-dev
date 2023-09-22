@@ -86,5 +86,13 @@
       "demo": "https://javihidalgodev.github.io/50-projects-50-days/11-event-keycodes/",
       "repo": "https://github.com/javihidalgodev/50-projects-50-days/tree/main/11-event-keycodes"
     }
+  },
+  {
+    "name": "FAQ's",
+    "background": "thumbnail-12.png",
+    "link": {
+      "demo": "https://javihidalgodev.github.io/50-projects-50-days/12-FAQ/",
+      "repo": "https://github.com/javihidalgodev/50-projects-50-days/tree/main/12-FAQ"
+    }
   }
 ]
