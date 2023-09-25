@@ -94,5 +94,29 @@
       "demo": "https://javihidalgodev.github.io/50-projects-50-days/12-FAQ/",
       "repo": "https://github.com/javihidalgodev/50-projects-50-days/tree/main/12-FAQ"
     }
+  },
+  {
+    "name": "Random Choice Picker",
+    "background": "thumbnail-13.png",
+    "link": {
+      "demo": "https://javihidalgodev.github.io/50-projects-50-days/13-random-choice-picker/",
+      "repo": "https://github.com/javihidalgodev/50-projects-50-days/tree/main/13-random-choice-picker"
+    }
+  },
+  {
+    "name": "Animated Navigation",
+    "background": "thumbnail-14.png",
+    "link": {
+      "demo": "https://javihidalgodev.github.io/50-projects-50-days/14-animated-navigation/",
+      "repo": "https://github.com/javihidalgodev/50-projects-50-days/tree/main/14-animated-navigation"
+    }
+  },
+  {
+    "name": "Increment Counter",
+    "background": "thumbnail-15.png",
+    "link": {
+      "demo": "https://javihidalgodev.github.io/50-projects-50-days/15-increment-counter/",
+      "repo": "https://github.com/javihidalgodev/50-projects-50-days/tree/main/15-increment-counter"
+    }
   }
 ]
