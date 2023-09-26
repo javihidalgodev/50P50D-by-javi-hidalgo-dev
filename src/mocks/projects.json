@@ -118,5 +118,13 @@
       "demo": "https://javihidalgodev.github.io/50-projects-50-days/15-increment-counter/",
       "repo": "https://github.com/javihidalgodev/50-projects-50-days/tree/main/15-increment-counter"
     }
+  },
+  {
+    "name": "Drink Water",
+    "background": "thumbnail-16.png",
+    "link": {
+      "demo": "https://javihidalgodev.github.io/50-projects-50-days/16-drink-water/",
+      "repo": "https://github.com/javihidalgodev/50-projects-50-days/tree/main/16-drink-water"
+    }
   }
 ]
