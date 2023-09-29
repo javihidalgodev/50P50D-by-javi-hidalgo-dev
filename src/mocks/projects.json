@@ -134,5 +134,21 @@
       "demo": "https://javihidalgodev.github.io/50-projects-50-days/17-movie-app/",
       "repo": "https://github.com/javihidalgodev/50-projects-50-days/tree/main/17-movie-app"
     }
+  },
+  {
+    "name": "Background Slider",
+    "background": "thumbnail-18.png",
+    "link": {
+      "demo": "https://javihidalgodev.github.io/50-projects-50-days/18-background-slider/",
+      "repo": "https://github.com/javihidalgodev/50-projects-50-days/tree/main/18-background-slider"
+    }
+  },
+  {
+    "name": "Theme Clock",
+    "background": "thumbnail-19.png",
+    "link": {
+      "demo": "https://javihidalgodev.github.io/50-projects-50-days/19-theme-clock/",
+      "repo": "https://github.com/javihidalgodev/50-projects-50-days/tree/main/19-theme-clock"
+    }
   }
 ]
