@@ -150,5 +150,29 @@
       "demo": "https://javihidalgodev.github.io/50-projects-50-days/19-theme-clock/",
       "repo": "https://github.com/javihidalgodev/50-projects-50-days/tree/main/19-theme-clock"
     }
+  },
+  {
+    "name": "Button Ripple Effect",
+    "background": "thumbnail-20.png",
+    "link": {
+      "demo": "https://javihidalgodev.github.io/50-projects-50-days/20-button-ripple-effect/",
+      "repo": "https://github.com/javihidalgodev/50-projects-50-days/tree/main/20-button-ripple-effect"
+    }
+  },
+  {
+    "name": "Drag N Drop",
+    "background": "thumbnail-21.png",
+    "link": {
+      "demo": "https://javihidalgodev.github.io/50-projects-50-days/21-drag-n-drop/",
+      "repo": "https://github.com/javihidalgodev/50-projects-50-days/tree/main/21-drag-n-drop"
+    }
+  },
+  {
+    "name": "Theme Clock",
+    "background": "thumbnail-22.png",
+    "link": {
+      "demo": "https://javihidalgodev.github.io/50-projects-50-days/22-drawing-app/",
+      "repo": "https://github.com/javihidalgodev/50-projects-50-days/tree/main/22-drawing-app"
+    }
   }
 ]
