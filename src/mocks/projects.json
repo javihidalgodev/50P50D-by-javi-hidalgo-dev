@@ -174,5 +174,13 @@
       "demo": "https://javihidalgodev.github.io/50-projects-50-days/22-drawing-app/",
       "repo": "https://github.com/javihidalgodev/50-projects-50-days/tree/main/22-drawing-app"
     }
+  },
+  {
+    "name": "Kinetic Loader",
+    "background": "thumbnail-23.png",
+    "link": {
+      "demo": "https://javihidalgodev.github.io/50-projects-50-days/23-kinetic-loader/",
+      "repo": "https://github.com/javihidalgodev/50-projects-50-days/tree/main/23-kinetic-loader"
+    }
   }
 ]
