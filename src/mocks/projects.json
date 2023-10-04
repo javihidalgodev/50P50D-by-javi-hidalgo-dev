@@ -182,5 +182,13 @@
       "demo": "https://javihidalgodev.github.io/50-projects-50-days/23-kinetic-loader/",
       "repo": "https://github.com/javihidalgodev/50-projects-50-days/tree/main/23-kinetic-loader"
     }
+  },
+  {
+    "name": "Content Placeholder",
+    "background": "thumbnail-24.png",
+    "link": {
+      "demo": "https://javihidalgodev.github.io/50-projects-50-days/24-content-place-holder/",
+      "repo": "https://github.com/javihidalgodev/50-projects-50-days/tree/main/24-content-place-holder"
+    }
   }
 ]
