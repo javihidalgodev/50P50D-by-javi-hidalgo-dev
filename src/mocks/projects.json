@@ -190,5 +190,13 @@
       "demo": "https://javihidalgodev.github.io/50-projects-50-days/24-content-place-holder/",
       "repo": "https://github.com/javihidalgodev/50-projects-50-days/tree/main/24-content-place-holder"
     }
+  },
+  {
+    "name": "Sticky Navigation",
+    "background": "thumbnail-25.png",
+    "link": {
+      "demo": "https://javihidalgodev.github.io/50-projects-50-days/25-sticky-navigation/",
+      "repo": "https://github.com/javihidalgodev/50-projects-50-days/tree/main/25-sticky-navigation"
+    }
   }
 ]
