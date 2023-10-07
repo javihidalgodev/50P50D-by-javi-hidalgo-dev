@@ -198,5 +198,13 @@
       "demo": "https://javihidalgodev.github.io/50-projects-50-days/25-sticky-navigation/",
       "repo": "https://github.com/javihidalgodev/50-projects-50-days/tree/main/25-sticky-navigation"
     }
+  },
+  {
+    "name": "Double Vertical Slider",
+    "background": "thumbnail-26.png",
+    "link": {
+      "demo": "https://javihidalgodev.github.io/50-projects-50-days/26-double-vertical-slider/",
+      "repo": "https://github.com/javihidalgodev/50-projects-50-days/tree/main/26-double-vertical-slider"
+    }
   }
 ]
