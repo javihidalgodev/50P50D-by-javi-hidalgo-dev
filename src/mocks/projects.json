@@ -206,5 +206,13 @@
       "demo": "https://javihidalgodev.github.io/50-projects-50-days/26-double-vertical-slider/",
       "repo": "https://github.com/javihidalgodev/50-projects-50-days/tree/main/26-double-vertical-slider"
     }
+  },
+  {
+    "name": "Toast Notifications",
+    "background": "thumbnail-27.png",
+    "link": {
+      "demo": "https://javihidalgodev.github.io/50-projects-50-days/27-toast-notification/",
+      "repo": "https://github.com/javihidalgodev/50-projects-50-days/tree/main/27-toast-notification"
+    }
   }
 ]
