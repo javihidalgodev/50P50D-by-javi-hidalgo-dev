@@ -1,4 +1,6 @@
 body {
+  max-width: 1000px;
+
   color-scheme: dark;
   font-family: 'Kanit';
   background-color: #242424;

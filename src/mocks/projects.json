@@ -214,5 +214,13 @@
       "demo": "https://javihidalgodev.github.io/50-projects-50-days/27-toast-notification/",
       "repo": "https://github.com/javihidalgodev/50-projects-50-days/tree/main/27-toast-notification"
     }
+  },
+  {
+    "name": "Github Profiles",
+    "background": "thumbnail-28.png",
+    "link": {
+      "demo": "https://javihidalgodev.github.io/50-projects-50-days/28-github-profiles/",
+      "repo": "https://github.com/javihidalgodev/50-projects-50-days/tree/main/28-github-profiles"
+    }
   }
 ]
