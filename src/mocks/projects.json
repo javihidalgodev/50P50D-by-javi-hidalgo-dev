@@ -222,5 +222,21 @@
       "demo": "https://javihidalgodev.github.io/50-projects-50-days/28-github-profiles/",
       "repo": "https://github.com/javihidalgodev/50-projects-50-days/tree/main/28-github-profiles"
     }
+  },
+  {
+    "name": "Double Click Heart",
+    "background": "thumbnail-29.png",
+    "link": {
+      "demo": "https://javihidalgodev.github.io/50-projects-50-days/29-double-click-heart/",
+      "repo": "https://github.com/javihidalgodev/50-projects-50-days/tree/main/29-double-click-heart"
+    }
+  },
+  {
+    "name": "Auto Text Effect",
+    "background": "thumbnail-30.png",
+    "link": {
+      "demo": "https://javihidalgodev.github.io/50-projects-50-days/30-auto-text-effect/",
+      "repo": "https://github.com/javihidalgodev/50-projects-50-days/tree/main/30-auto-text-effect"
+    }
   }
 ]
