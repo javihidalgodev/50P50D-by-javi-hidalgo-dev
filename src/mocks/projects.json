@@ -254,5 +254,13 @@
       "demo": "https://javihidalgodev.github.io/50-projects-50-days/32-good-cheap-fast/",
       "repo": "https://github.com/javihidalgodev/50-projects-50-days/tree/main/32-good-cheap-fast"
     }
+  },
+  {
+    "name": "Notes App",
+    "background": "thumbnail-33.png",
+    "link": {
+      "demo": "https://javihidalgodev.github.io/50-projects-50-days/33-notes-app/",
+      "repo": "https://github.com/javihidalgodev/50-projects-50-days/tree/main/32-notes-app"
+    }
   }
 ]
