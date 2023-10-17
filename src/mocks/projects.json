@@ -262,5 +262,21 @@
       "demo": "https://javihidalgodev.github.io/50-projects-50-days/33-notes-app/",
       "repo": "https://github.com/javihidalgodev/50-projects-50-days/tree/main/32-notes-app"
     }
+  },
+  {
+    "name": "Animated Countdown",
+    "background": "thumbnail-34.png",
+    "link": {
+      "demo": "https://javihidalgodev.github.io/50-projects-50-days/34-animated-countdown/",
+      "repo": "https://github.com/javihidalgodev/50-projects-50-days/tree/main/34-animated-countdown"
+    }
+  },
+  {
+    "name": "Image Carousel",
+    "background": "thumbnail-35.png",
+    "link": {
+      "demo": "https://javihidalgodev.github.io/50-projects-50-days/35-image-carousel/",
+      "repo": "https://github.com/javihidalgodev/50-projects-50-days/tree/main/35-image-carousel"
+    }
   }
 ]
