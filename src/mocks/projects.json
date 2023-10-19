@@ -278,5 +278,13 @@
       "demo": "https://javihidalgodev.github.io/50-projects-50-days/35-image-carousel/",
       "repo": "https://github.com/javihidalgodev/50-projects-50-days/tree/main/35-image-carousel"
     }
+  },
+  {
+    "name": "Hoverboard",
+    "background": "thumbnail-36.png",
+    "link": {
+      "demo": "https://javihidalgodev.github.io/50-projects-50-days/36-hoverboard/",
+      "repo": "https://github.com/javihidalgodev/50-projects-50-days/tree/main/36-hoverboard"
+    }
   }
 ]
