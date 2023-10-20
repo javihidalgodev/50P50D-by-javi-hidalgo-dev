@@ -286,5 +286,21 @@
       "demo": "https://javihidalgodev.github.io/50-projects-50-days/36-hoverboard/",
       "repo": "https://github.com/javihidalgodev/50-projects-50-days/tree/main/36-hoverboard"
     }
+  },
+  {
+    "name": "Pokedex",
+    "background": "thumbnail-37.png",
+    "link": {
+      "demo": "https://javihidalgodev.github.io/50-projects-50-days/37-pokedex/",
+      "repo": "https://github.com/javihidalgodev/50-projects-50-days/tree/main/37-pokedex"
+    }
+  },
+  {
+    "name": "Mobile Tab Navigation",
+    "background": "thumbnail-38.png",
+    "link": {
+      "demo": "https://javihidalgodev.github.io/50-projects-50-days/38-mobile-tab-navigation/",
+      "repo": "https://github.com/javihidalgodev/50-projects-50-days/tree/main/38-mobile-tab-navigation"
+    }
   }
 ]
