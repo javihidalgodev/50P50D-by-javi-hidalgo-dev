@@ -302,5 +302,13 @@
       "demo": "https://javihidalgodev.github.io/50-projects-50-days/38-mobile-tab-navigation/",
       "repo": "https://github.com/javihidalgodev/50-projects-50-days/tree/main/38-mobile-tab-navigation"
     }
+  },
+  {
+    "name": "Image Pass Strength",
+    "background": "thumbnail-39.png",
+    "link": {
+      "demo": "https://javihidalgodev.github.io/50-projects-50-days/39-image-pass-strength/",
+      "repo": "https://github.com/javihidalgodev/50-projects-50-days/tree/main/39-image-pass-strength"
+    }
   }
 ]
