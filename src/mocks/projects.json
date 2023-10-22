@@ -310,5 +310,13 @@
       "demo": "https://javihidalgodev.github.io/50-projects-50-days/39-image-pass-strength/",
       "repo": "https://github.com/javihidalgodev/50-projects-50-days/tree/main/39-image-pass-strength"
     }
+  },
+  {
+    "name": "3D Boxes Background",
+    "background": "thumbnail-40.png",
+    "link": {
+      "demo": "https://javihidalgodev.github.io/50-projects-50-days/40-3d-boxes-background/",
+      "repo": "https://github.com/javihidalgodev/50-projects-50-days/tree/main/40-3d-boxes-background"
+    }
   }
 ]
