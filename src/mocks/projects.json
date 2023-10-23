@@ -318,5 +318,13 @@
       "demo": "https://javihidalgodev.github.io/50-projects-50-days/40-3d-boxes-background/",
       "repo": "https://github.com/javihidalgodev/50-projects-50-days/tree/main/40-3d-boxes-background"
     }
+  },
+  {
+    "name": "Verify Account",
+    "background": "thumbnail-41.png",
+    "link": {
+      "demo": "https://javihidalgodev.github.io/50-projects-50-days/41-verify-account/",
+      "repo": "https://github.com/javihidalgodev/50-projects-50-days/tree/main/41-verify-account"
+    }
   }
 ]
