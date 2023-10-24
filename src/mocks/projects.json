@@ -326,5 +326,13 @@
       "demo": "https://javihidalgodev.github.io/50-projects-50-days/41-verify-account/",
       "repo": "https://github.com/javihidalgodev/50-projects-50-days/tree/main/41-verify-account"
     }
+  },
+  {
+    "name": "Live User Filter",
+    "background": "thumbnail-42.png",
+    "link": {
+      "demo": "https://javihidalgodev.github.io/50-projects-50-days/42-live-user-filter/",
+      "repo": "https://github.com/javihidalgodev/50-projects-50-days/tree/main/42-live-user-filter"
+    }
   }
 ]
