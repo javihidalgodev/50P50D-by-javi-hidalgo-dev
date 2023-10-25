@@ -334,5 +334,13 @@
       "demo": "https://javihidalgodev.github.io/50-projects-50-days/42-live-user-filter/",
       "repo": "https://github.com/javihidalgodev/50-projects-50-days/tree/main/42-live-user-filter"
     }
+  },
+  {
+    "name": "User Feedback UI",
+    "background": "thumbnail-43.png",
+    "link": {
+      "demo": "https://javihidalgodev.github.io/50-projects-50-days/43-feedback/",
+      "repo": "https://github.com/javihidalgodev/50-projects-50-days/tree/main/43-feedback"
+    }
   }
 ]
