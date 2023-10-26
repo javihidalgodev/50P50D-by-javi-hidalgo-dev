@@ -342,5 +342,13 @@
       "demo": "https://javihidalgodev.github.io/50-projects-50-days/43-feedback/",
       "repo": "https://github.com/javihidalgodev/50-projects-50-days/tree/main/43-feedback"
     }
+  },
+  {
+    "name": "Custom Range Slider",
+    "background": "thumbnail-44.png",
+    "link": {
+      "demo": "https://javihidalgodev.github.io/50-projects-50-days/44-custom-range-slider/",
+      "repo": "https://github.com/javihidalgodev/50-projects-50-days/tree/main/44-custom-range-slider"
+    }
   }
 ]
