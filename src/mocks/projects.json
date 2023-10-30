@@ -350,5 +350,21 @@
       "demo": "https://javihidalgodev.github.io/50-projects-50-days/44-custom-range-slider/",
       "repo": "https://github.com/javihidalgodev/50-projects-50-days/tree/main/44-custom-range-slider"
     }
+  },
+  {
+    "name": "Netflix Mobile Navigation",
+    "background": "thumbnail-45.png",
+    "link": {
+      "demo": "https://javihidalgodev.github.io/50-projects-50-days/45-netflix-mobile-navigation/",
+      "repo": "https://github.com/javihidalgodev/50-projects-50-days/tree/main/45-netflix-mobile-navigation"
+    }
+  },
+  {
+    "name": "Quiz App",
+    "background": "thumbnail-46.png",
+    "link": {
+      "demo": "https://javihidalgodev.github.io/50-projects-50-days/46-quiz-app/",
+      "repo": "https://github.com/javihidalgodev/50-projects-50-days/tree/main/46-quiz-app"
+    }
   }
 ]
