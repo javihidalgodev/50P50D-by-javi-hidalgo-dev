@@ -374,5 +374,13 @@
       "demo": "https://javihidalgodev.github.io/50-projects-50-days/47-testimonial-box/",
       "repo": "https://github.com/javihidalgodev/50-projects-50-days/tree/main/47-testimonial-box"
     }
+  },
+  {
+    "name": "Random Image Feed",
+    "background": "thumbnail-48.png",
+    "link": {
+      "demo": "https://javihidalgodev.github.io/50-projects-50-days/48-random-image-feed/",
+      "repo": "https://github.com/javihidalgodev/50-projects-50-days/tree/main/48-random-image-feed"
+    }
   }
 ]
