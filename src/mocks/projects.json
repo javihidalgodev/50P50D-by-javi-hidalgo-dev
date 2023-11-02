@@ -382,5 +382,13 @@
       "demo": "https://javihidalgodev.github.io/50-projects-50-days/48-random-image-feed/",
       "repo": "https://github.com/javihidalgodev/50-projects-50-days/tree/main/48-random-image-feed"
     }
+  },
+  {
+    "name": "Todo list",
+    "background": "thumbnail-49.png",
+    "link": {
+      "demo": "https://javihidalgodev.github.io/50-projects-50-days/49-todo-list/",
+      "repo": "https://github.com/javihidalgodev/50-projects-50-days/tree/main/49-todo-list"
+    }
   }
 ]
