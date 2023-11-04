@@ -390,5 +390,13 @@
       "demo": "https://javihidalgodev.github.io/50-projects-50-days/49-todo-list/",
       "repo": "https://github.com/javihidalgodev/50-projects-50-days/tree/main/49-todo-list"
     }
+  },
+  {
+    "name": "Catch the Villain",
+    "background": "thumbnail-50.png",
+    "link": {
+      "demo": "https://javihidalgodev.github.io/50-projects-50-days/50-catch-the-villain/",
+      "repo": "https://github.com/javihidalgodev/50-projects-50-days/tree/main/50-catch-the-villain"
+    }
   }
 ]
